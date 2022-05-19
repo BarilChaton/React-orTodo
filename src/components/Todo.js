@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import TodoForm from './TodoForm'
-import TodoList from './TodoList'
 import { AiFillCloseCircle } from 'react-icons/ai';
 import { AiFillEdit } from 'react-icons/ai';
 
