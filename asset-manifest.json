@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-orTodo/static/css/main.fce22439.css",
+    "main.css": "/React-orTodo/static/css/main.26f2d9c3.css",
     "main.js": "/React-orTodo/static/js/main.7abfc3e5.js",
     "static/media/Nuke.png": "/React-orTodo/static/media/Nuke.76cf65d5e432d1f8995b.png",
     "index.html": "/React-orTodo/index.html",
-    "main.fce22439.css.map": "/React-orTodo/static/css/main.fce22439.css.map",
+    "main.26f2d9c3.css.map": "/React-orTodo/static/css/main.26f2d9c3.css.map",
     "main.7abfc3e5.js.map": "/React-orTodo/static/js/main.7abfc3e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce22439.css",
+    "static/css/main.26f2d9c3.css",
     "static/js/main.7abfc3e5.js"
   ]
 }
